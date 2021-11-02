@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+}
+
+#menu {
+  background-color: #eeee;
+  padding: 20px 10px;
+}
+
+#menu ul {
+  margin: 0;
+  padding: 0;
+}
+
+#menu ul li {
+  display: inline-block;
+}
+
+#menu ul li a {
+  color: #176b92;
+  text-decoration: none;
+  padding: 10px;
+}
